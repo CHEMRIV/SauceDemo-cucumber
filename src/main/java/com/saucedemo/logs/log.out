@@ -1,0 +1,21 @@
+2022-05-19 14:05:476 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 15:05:92 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 15:05:464 INFO  HomePage :33 - Enter Username[[ChromeDriver: chrome on WINDOWS (aebd7317b537766f85d2961ca8afdb73)] -> xpath: //input[@id='user-name']]
+2022-05-19 15:05:626 INFO  HomePage :37 - Enter user password[[ChromeDriver: chrome on WINDOWS (aebd7317b537766f85d2961ca8afdb73)] -> xpath: //input[@id='user-name']]
+2022-05-19 15:05:784 INFO  HomePage :41 - Click On LogIn Button[[ChromeDriver: chrome on WINDOWS (aebd7317b537766f85d2961ca8afdb73)] -> xpath: //input[@id='login-button']]
+2022-05-19 15:05:928 INFO  InventoryPage :59 - Select dropdownProxy element for: DefaultElementLocator 'By.tagName: select'
+2022-05-19 15:05:143 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 15:05:187 INFO  HomePage :33 - Enter Username[[ChromeDriver: chrome on WINDOWS (7cf568963f12c556333647857708efe4)] -> xpath: //input[@id='user-name']]
+2022-05-19 15:05:309 INFO  HomePage :37 - Enter user password[[ChromeDriver: chrome on WINDOWS (7cf568963f12c556333647857708efe4)] -> xpath: //input[@id='user-name']]
+2022-05-19 15:05:449 INFO  HomePage :41 - Click On LogIn Button[[ChromeDriver: chrome on WINDOWS (7cf568963f12c556333647857708efe4)] -> xpath: //input[@id='login-button']]
+2022-05-19 15:05:664 INFO  InventoryPage :59 - Select dropdown[[ChromeDriver: chrome on WINDOWS (7cf568963f12c556333647857708efe4)] -> tag name: select]
+2022-05-19 15:05:883 INFO  InventoryPage :64 - Click on price high to low[[ChromeDriver: chrome on WINDOWS (7cf568963f12c556333647857708efe4)] -> xpath: //option[contains(text(),'Price (high to low)')]]
+2022-05-19 15:05:969 INFO  InventoryPage :68 - add to cat cheapest & costliest products 
+2022-05-19 15:05:213 INFO  InventoryPage :73 - Click on shopping cart[[ChromeDriver: chrome on WINDOWS (7cf568963f12c556333647857708efe4)] -> xpath: //a[@class='shopping_cart_link']]
+2022-05-19 15:05:371 INFO  CheckOutPage :23 - Click on checkout product[[ChromeDriver: chrome on WINDOWS (7cf568963f12c556333647857708efe4)] -> xpath: //button[@id='checkout']]
+2022-05-19 15:05:476 INFO  InventoryPage :77 - Enter first name[[ChromeDriver: chrome on WINDOWS (7cf568963f12c556333647857708efe4)] -> id: first-name]
+2022-05-19 15:05:580 INFO  InventoryPage :81 - Enter last name[[ChromeDriver: chrome on WINDOWS (7cf568963f12c556333647857708efe4)] -> id: last-name]
+2022-05-19 15:05:687 INFO  InventoryPage :85 - Enter zipcode[[ChromeDriver: chrome on WINDOWS (7cf568963f12c556333647857708efe4)] -> id: postal-code]
+2022-05-19 15:05:780 INFO  InventoryPage :89 - click on final continue button[[ChromeDriver: chrome on WINDOWS (7cf568963f12c556333647857708efe4)] -> xpath: //input[@id='continue']]
+2022-05-19 15:05:878 INFO  InventoryPage :93 - Click on finished button[[ChromeDriver: chrome on WINDOWS (7cf568963f12c556333647857708efe4)] -> xpath: //button[@id='finish']]
+2022-05-19 15:05:975 INFO  InventoryPage :97 - Verify msg[[ChromeDriver: chrome on WINDOWS (7cf568963f12c556333647857708efe4)] -> xpath: //div[@class='complete-text']]
